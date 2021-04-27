@@ -44,5 +44,3 @@ RUN /usr/local/flutter/bin/flutter doctor -v \
 
 # Setting flutter and dart-sdk to PATH so they are accessible from terminal
 ENV PATH="/usr/local/flutter/bin:/usr/local/flutter/bin/cache/dart-sdk/bin:${PATH}"
-
-.
